@@ -15,9 +15,12 @@
 
         <sonar.projectKey>ngx_project_key</sonar.projectKey>
 <!--        <sonar.moduleKey>${artifactId}</sonar.moduleKey>-->
-        <sonar.organization>ngxorg</sonar.organization>
-<!--        <sonar.host.url>https://sonarcloud.io</sonar.host.url>-->
-        <sonar.host.url>https://ngx2.eu.ngrok.io/</sonar.host.url>
+<!--        <sonar.organization>ngxorg</sonar.organization>-->
+        <sonar.organization>nicolas-gouteux-sonarsource</sonar.organization>
+
+        <!--        <sonar.host.url>https://sonarcloud.io</sonar.host.url>-->
+        <sonar.host.url>https://squad-1-core.sc-dev.io</sonar.host.url>
+        <!--        <sonar.host.url>https://ngx2.eu.ngrok.io/</sonar.host.url>-->
     </properties>
     
 </project>
